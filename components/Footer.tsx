@@ -45,7 +45,7 @@ export default function Footer() {
           </svg>
         </Link>
         <Link
-          href="https://github.com/Nutlope/metaGeeksGPT"
+          href="https://github.com/Nutlope/metageeksGPT"
           className="group"
           aria-label="TaxPal on GitHub"
         >

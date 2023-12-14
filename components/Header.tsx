@@ -13,12 +13,12 @@ export default function Header() {
           height={24}
         />
         <h1 className="sm:text-3xl text-xl font-bold ml-2 tracking-tight">
-          metaGeeksGPT.io
+          metageeksGPT.io
         </h1>
       </Link>
       <a
         className="flex max-w-fit items-center justify-center space-x-2 rounded-full border border-blue-600 text-white px-5 py-2 text-sm shadow-md hover:bg-blue-500 bg-blue-600 font-medium transition"
-        href="https://github.com/Nutlope/metaGeeksGPT"
+        href="https://github.com/Nutlope/metageeksGPT"
         target="_blank"
         rel="noopener noreferrer"
       >
